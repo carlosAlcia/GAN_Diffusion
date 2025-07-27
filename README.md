@@ -1,5 +1,7 @@
 # GANs and Diffusion
 
+![cGAN Images](cGAN.png)
+
 This project explores image generation using generative models, with a focus on understanding how they work under the hood and how to implement them from scratch. The goal is to experiment with different model architectures and training strategies to perform image generation both with and without conditioning (as illustrated in the image above, which shows a generation conditioned by another image).
 
 The work was carried out using an interactive Jupyter notebook, which combines:
